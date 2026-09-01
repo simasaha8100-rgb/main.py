@@ -9,7 +9,7 @@ from datetime import datetime
 
 BOT_TOKEN = 8829932703:AAFBf5Lle1hAoTYhYC8rQGvs2baqOHbh2sI
  # ⚠️ Ekhane new token bosao
-ADMIN_ID = 123456789 # ⚠️ Tomar Telegram ID ( @userinfobot )
+ADMIN_ID = 6384181929 # ⚠️ Tomar Telegram ID ( @userinfobot )
 
 DB_FILE = "users.json"
 TASK_FILE = "task.json"
